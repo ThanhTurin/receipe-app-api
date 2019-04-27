@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER thanhturin
+LABEL MAINTAINER thanhturin
 
 ENV PYTHONUNBUFFERED 1
 
